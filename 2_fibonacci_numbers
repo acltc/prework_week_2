@@ -1,0 +1,13 @@
+Fibonacci Numbers
+-----------------
+
+Instructions:
+
+Fibonacci numbers are numbers that follow the pattern:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc.
+
+That is, each number is the sum of the two numbers that precede it.
+
+Write a program that prints out the first 100 fibonacci numbers. Use a loop!
+
+(see: http://commoninterview.com/images/Fibonacci_Series_Question.jpg)

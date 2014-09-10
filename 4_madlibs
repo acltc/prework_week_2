@@ -1,0 +1,22 @@
+Madlibs
+-------
+
+Instructions:
+
+Write a program that asks the user for 5 words and creates a story out of it. For example, you will have some sort of story template like this:
+
+____name____ went to the store and bought a ___noun___. Then, the ____adjective____ ____noun____ yelled, "Quick! Go ____verb____ the police!"
+
+The program will ask the user for a name, a noun, an adjective, another noun, and a verb. After the user enters those words, the program will print out the completed story.
+
+For this exercise, use interpolation (instead of concatenation). Both are methods of sticking variables (and other stuff) inside strings. Let's say you had a variable called word and wanted to stick it in the middle of a string:
+
+Concatenation:
+
+"The reason why " + word + " is a good thing is because it is."
+
+Interpolation:
+
+"The reason why #{word} is a good thing is because it is."
+
+Pro tip: Interpolation is always preferred over concatenation when possible. That's why we're using it in this exercise.

@@ -1,0 +1,14 @@
+Division with Remainder
+-----------------------
+
+Instructions:
+
+Write a program that asks the user for two numbers. The program will then divide the first number by the second number and return both the quotient and the remainder.
+
+For example, if the user enters 10 and 5, the program will print out:
+
+2 R0
+
+And if the user enters 33 and 10, the program will return:
+
+3 R3
