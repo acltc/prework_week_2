@@ -1,0 +1,36 @@
+War
+---
+
+Instructions:
+
+You are probably familiar with the card game called War. If not, you can find details here: http://en.wikipedia.org/wiki/War_(card_game)
+
+When I play War with my son, I'm usually bored out of my brains, as it's a game of pure luck and no skill. I try to convince my kid to play both sides himself, as he doesn't really need me...
+
+And then I thought that I could just create a program that plays through an entire game of War on its own in a matter of seconds! How awesome would that be?
+
+Create a program which is a simulation of two players playing war. Each player gets half of a shuffled deck of cards, and the computer plays through the entire game.
+
+So in the terminal, you might see this played out as follows:
+
+Turn 1:
+Player A: 6
+Player B: King
+B wins that round!
+
+Turn 2:
+Player A: Ace
+Player B: Jack
+Player A wins that round!
+
+Turn 3:
+Player A: 8
+Player B: 8
+THIS MEANS WAR!!!
+Player A puts face down: 5, Queen, 10. And the face up card is: 7
+Player B puts face down: 2, 9, 4. And the face up card is: 10
+Player B wins that round!
+
+Etc, etc. until one player runs out of cards and the other player wins the game.
+
+Thank you so much for this! This will save my son and I lots of time.
