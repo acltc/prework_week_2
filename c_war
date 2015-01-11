@@ -33,4 +33,10 @@ Player B wins that round!
 
 Etc, etc. until one player runs out of cards and the other player wins the game.
 
-Thank you so much for this! This will save my son and I lots of time.
+Thank you so much for this! This will save my son and myself lots of time.
+
+Advice on how to break this down: 
+
+1) The trickiest aspect here is dealing with the war situation. First create a version of this program that simply returns the cards to the players' decks when the players' cards are the same. Once you've completed the program, you can return to deal with a war situation the right way.
+
+2) First, just have players' decks be stacked with cards 1 through 13 and don't worry about face cards such as Ace, King, Jack, and Queen. And you can make 13 the most powerful card and 1 the weakest card. Once you complete the program, you can return to make the game more realstic with face cards.

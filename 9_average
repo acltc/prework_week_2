@@ -1,0 +1,13 @@
+Average
+-------
+
+Instructions:
+
+Create a program that asks the user to enter as many numbers as they wish, and as soon as the user enters: 'done', the program stops asking for numbers. Then, tell the user the average of all the numbers. 
+
+Remember: To find the average of numbers, you get the sum of all the numbers and divide that sum by the count of how many numbers there are.
+
+For example, if the user enters:
+11, 7, 30, 22, 55
+
+the average will be 25. This is because 11 + 7 + 30 + 22 + 55 = 125, and 125 / 5 (the amount of numbers in the list) = 25.
