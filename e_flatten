@@ -1,0 +1,16 @@
+Flatten
+-------
+
+Start with this line of code:
+
+array = [["a", "b", "z"], ["c", "d"], ["e", "f"], ["g", "h", "i", "j"]]
+
+It's a two dimensional array (yay!).
+
+Write code that will take each of those letters and put them into a brand new one dimensional array. So the resulting array should be:
+
+["a", "b", "z", "c", "d", "e", "f", "g", "h", "i", "j"]
+
+Your last line of code should use the p command (e.g. p new_array) to make sure that your new array looks right.
+
+HINT: You will want to use an each WITHIN an each.

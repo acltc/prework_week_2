@@ -1,0 +1,34 @@
+PEOPLE AND THEIR HOBBIES
+------------------------
+
+Start with this line of code:
+
+people = [
+  {
+    "first_name" => "Bob",
+    "last_name" => "Jones", 
+    "hobbies" => ["basketball", "chess", "phone tag"]
+   },
+   {
+    "first_name" => "Molly",
+    "last_name" => "Barker",
+    "hobbies" => ["programming", "reading", "jogging"]
+   },
+   {
+    "first_name" => "Kelly",
+    "last_name" => "Miller",
+    "hobbies" => ["cricket", "baking", "stamp collecting"]
+   }
+]
+
+It's an array of hashes that is used to represent data about different people. The rest of your program should add additional keys and values to each person (in addition to the existing first_name, last_name, and hobbies), as follows:
+
+Each person should be given a random age.
+
+Each person should given an email address that consists of their first name + last name @ gmail.com. For example, Bob Jones will have an email of bobjones@gmail.com.
+
+The program should end with:
+
+p people
+
+so that you can see if the correct modifications were made to each hash. 

@@ -1,0 +1,16 @@
+Letters:
+---------
+
+Instructions:
+
+Start your program with this line of code:
+
+letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
+
+The rest of your program should print out every other letter. That is, the result in your terminal should be:
+
+a
+c
+e
+g
+i
